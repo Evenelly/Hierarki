@@ -1,0 +1,28 @@
+.aDiv{
+    background-color: lightblue;
+}
+
+#blueText{
+    color: red;
+    color: blue;
+}
+
+#redText{
+    color: red;
+}
+
+#greenText{
+    color: green;
+}
+
+.text:last-child {
+    color: yellow;
+}
+
+.aDiv:last-of-type{
+    background-color: black;
+}
+
+.aDiv p:first-child{
+    color: white;
+}
